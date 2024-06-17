@@ -14,6 +14,6 @@ This Python script allows you to track your daily exercises and log them into a 
 - Log Exercise Data: The script logs the exercise data into a Google Sheet using the Sheety API.
 
 ## Demo
-For example, you can type "Running for 20 minutes for 5km" it should calculate the amount of calories burnt
+For example, you can type "Running for 20 minutes for 5km" it should calculate the amount of calories burnt and automatically save the data in Google sheet
 
 ![](https://github.com/AlvinChin1608/day38_100/blob/main/ExerciseCalories_Demo.gif)
