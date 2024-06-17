@@ -12,3 +12,8 @@ This Python script allows you to track your daily exercises and log them into a 
 - User Input: The script prompts the user to input the exercise they performed.
 - Fetch Exercise Details: The script sends a POST request to the Nutritionix API to fetch details about the exercise.
 - Log Exercise Data: The script logs the exercise data into a Google Sheet using the Sheety API.
+
+## Demo
+For example, you can type "Running for 20 minutes for 5km" it should calculate the amount of calories burnt
+
+![](https://github.com/AlvinChin1608/day38_100/blob/main/ExerciseCalories_Demo.gif)
